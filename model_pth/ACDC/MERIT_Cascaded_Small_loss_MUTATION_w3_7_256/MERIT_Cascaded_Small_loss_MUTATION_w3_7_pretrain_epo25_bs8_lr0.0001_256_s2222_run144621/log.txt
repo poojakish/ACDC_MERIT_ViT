@@ -1,0 +1,208 @@
+[14:48:08.524] iteration 50 : loss : 5.576910 lr_: 0.000100
+[14:49:47.834] iteration 100 : loss : 3.578128 lr_: 0.000100
+[14:51:27.138] iteration 150 : loss : 3.760550 lr_: 0.000100
+[14:53:06.509] iteration 200 : loss : 1.730291 lr_: 0.000100
+[14:53:34.373] Epoch 0 : train_loss : 3.920921
+[14:53:35.950] Validation ===>
+[14:53:59.419] Testing performance in val model: mean_dice : 0.755234, best_dice : 0.930000, loss:3.733845
+[14:53:59.423] Epoch 0 : val_loss : 3.733845
+[14:55:10.781] iteration 250 : loss : 2.119438 lr_: 0.000100
+[14:56:49.899] iteration 300 : loss : 1.333998 lr_: 0.000100
+[14:58:28.936] iteration 350 : loss : 1.341395 lr_: 0.000100
+[15:00:08.466] iteration 400 : loss : 1.716440 lr_: 0.000100
+[15:01:04.029] Epoch 1 : train_loss : 1.552729
+[15:01:05.483] Validation ===>
+[15:01:29.178] Testing performance in val model: mean_dice : 0.800678, best_dice : 0.930000, loss:3.073948
+[15:01:29.183] Epoch 1 : val_loss : 3.073948
+[15:02:12.946] iteration 450 : loss : 1.053135 lr_: 0.000100
+[15:03:52.334] iteration 500 : loss : 1.022022 lr_: 0.000100
+[15:05:31.685] iteration 550 : loss : 1.211101 lr_: 0.000100
+[15:07:11.184] iteration 600 : loss : 0.969823 lr_: 0.000100
+[15:08:35.025] Epoch 2 : train_loss : 1.207100
+[15:08:36.769] Validation ===>
+[15:09:00.357] Testing performance in val model: mean_dice : 0.791295, best_dice : 0.930000, loss:2.859420
+[15:09:00.362] Epoch 2 : val_loss : 2.859420
+[15:09:16.271] iteration 650 : loss : 0.872614 lr_: 0.000100
+[15:10:55.715] iteration 700 : loss : 1.140911 lr_: 0.000100
+[15:12:34.951] iteration 750 : loss : 0.746006 lr_: 0.000100
+[15:14:14.335] iteration 800 : loss : 1.028894 lr_: 0.000100
+[15:15:53.519] iteration 850 : loss : 0.873645 lr_: 0.000100
+[15:16:05.442] Epoch 3 : train_loss : 1.021832
+[15:16:06.953] Validation ===>
+[15:16:30.426] Testing performance in val model: mean_dice : 0.870146, best_dice : 0.930000, loss:2.487244
+[15:16:30.430] Epoch 3 : val_loss : 2.487244
+[15:17:57.747] iteration 900 : loss : 1.020229 lr_: 0.000100
+[15:19:36.924] iteration 950 : loss : 0.714054 lr_: 0.000100
+[15:21:16.284] iteration 1000 : loss : 1.359132 lr_: 0.000100
+[15:22:55.428] iteration 1050 : loss : 1.084510 lr_: 0.000100
+[15:23:35.120] Epoch 4 : train_loss : 0.985451
+[15:23:36.995] Validation ===>
+[15:23:59.908] Testing performance in val model: mean_dice : 0.867821, best_dice : 0.930000, loss:2.426511
+[15:23:59.914] Epoch 4 : val_loss : 2.426511
+[15:24:59.231] iteration 1100 : loss : 0.695776 lr_: 0.000100
+[15:26:38.192] iteration 1150 : loss : 0.789030 lr_: 0.000100
+[15:28:17.203] iteration 1200 : loss : 0.696387 lr_: 0.000100
+[15:29:56.241] iteration 1250 : loss : 0.835826 lr_: 0.000100
+[15:31:03.706] Epoch 5 : train_loss : 0.868005
+[15:31:05.176] Validation ===>
+[15:31:28.045] Testing performance in val model: mean_dice : 0.845835, best_dice : 0.930000, loss:2.462310
+[15:31:28.050] Epoch 5 : val_loss : 2.462310
+[15:31:59.831] iteration 1300 : loss : 0.773193 lr_: 0.000100
+[15:33:39.130] iteration 1350 : loss : 0.753742 lr_: 0.000100
+[15:35:18.642] iteration 1400 : loss : 1.223083 lr_: 0.000100
+[15:36:58.063] iteration 1450 : loss : 0.721216 lr_: 0.000100
+[15:38:33.377] Epoch 6 : train_loss : 0.826246
+[15:38:35.087] Validation ===>
+[15:38:58.143] Testing performance in val model: mean_dice : 0.860731, best_dice : 0.930000, loss:2.324035
+[15:38:58.148] Epoch 6 : val_loss : 2.324035
+[15:39:02.125] iteration 1500 : loss : 1.210771 lr_: 0.000100
+[15:40:41.392] iteration 1550 : loss : 0.730846 lr_: 0.000100
+[15:42:20.461] iteration 1600 : loss : 0.731494 lr_: 0.000100
+[15:43:59.599] iteration 1650 : loss : 1.007363 lr_: 0.000100
+[15:45:39.055] iteration 1700 : loss : 0.859399 lr_: 0.000100
+[15:46:02.873] Epoch 7 : train_loss : 0.787763
+[15:46:04.366] Validation ===>
+[15:46:27.285] Testing performance in val model: mean_dice : 0.877589, best_dice : 0.930000, loss:2.190940
+[15:46:27.289] Epoch 7 : val_loss : 2.190940
+[15:47:42.929] iteration 1750 : loss : 0.721376 lr_: 0.000100
+[15:49:22.488] iteration 1800 : loss : 1.150416 lr_: 0.000100
+[15:51:01.884] iteration 1850 : loss : 0.618625 lr_: 0.000100
+[15:52:41.312] iteration 1900 : loss : 0.841372 lr_: 0.000100
+[15:53:32.962] Epoch 8 : train_loss : 0.755915
+[15:53:34.787] Validation ===>
+[15:53:57.973] Testing performance in val model: mean_dice : 0.884512, best_dice : 0.930000, loss:2.231946
+[15:53:57.978] Epoch 8 : val_loss : 2.231946
+[15:54:45.692] iteration 1950 : loss : 0.725301 lr_: 0.000100
+[15:56:24.890] iteration 2000 : loss : 0.651987 lr_: 0.000100
+[15:58:04.314] iteration 2050 : loss : 0.886430 lr_: 0.000100
+[15:59:43.995] iteration 2100 : loss : 0.631961 lr_: 0.000100
+[16:01:03.555] Epoch 9 : train_loss : 0.672269
+[16:01:05.313] Validation ===>
+[16:01:27.751] Testing performance in val model: mean_dice : 0.863680, best_dice : 0.930000, loss:2.319203
+[16:01:27.756] Epoch 9 : val_loss : 2.319203
+[16:01:47.575] iteration 2150 : loss : 0.591215 lr_: 0.000100
+[16:03:26.971] iteration 2200 : loss : 0.580929 lr_: 0.000100
+[16:05:06.504] iteration 2250 : loss : 0.583222 lr_: 0.000100
+[16:06:46.144] iteration 2300 : loss : 0.704560 lr_: 0.000100
+[16:08:25.549] iteration 2350 : loss : 0.587360 lr_: 0.000100
+[16:08:33.605] Epoch 10 : train_loss : 0.649126
+[16:08:35.660] Validation ===>
+[16:08:58.645] Testing performance in val model: mean_dice : 0.855803, best_dice : 0.930000, loss:2.347901
+[16:08:58.649] Epoch 10 : val_loss : 2.347901
+[16:10:30.095] iteration 2400 : loss : 0.704338 lr_: 0.000100
+[16:12:09.401] iteration 2450 : loss : 0.591648 lr_: 0.000100
+[16:13:48.645] iteration 2500 : loss : 0.513410 lr_: 0.000100
+[16:15:28.033] iteration 2550 : loss : 0.591788 lr_: 0.000100
+[16:16:03.779] Epoch 11 : train_loss : 0.627542
+[16:16:05.380] Validation ===>
+[16:16:27.606] Testing performance in val model: mean_dice : 0.878218, best_dice : 0.930000, loss:2.148269
+[16:16:27.611] Epoch 11 : val_loss : 2.148269
+[16:17:31.060] iteration 2600 : loss : 0.631497 lr_: 0.000100
+[16:19:10.811] iteration 2650 : loss : 0.655930 lr_: 0.000100
+[16:20:50.261] iteration 2700 : loss : 0.627138 lr_: 0.000100
+[16:22:29.505] iteration 2750 : loss : 0.671678 lr_: 0.000100
+[16:23:33.549] Epoch 12 : train_loss : 0.651484
+[16:23:35.191] Validation ===>
+[16:23:57.967] Testing performance in val model: mean_dice : 0.868616, best_dice : 0.930000, loss:2.221969
+[16:23:57.972] Epoch 12 : val_loss : 2.221969
+[16:24:33.775] iteration 2800 : loss : 0.685891 lr_: 0.000100
+[16:26:13.269] iteration 2850 : loss : 0.643527 lr_: 0.000100
+[16:27:52.779] iteration 2900 : loss : 0.687544 lr_: 0.000100
+[16:29:32.461] iteration 2950 : loss : 0.627339 lr_: 0.000100
+[16:31:04.018] Epoch 13 : train_loss : 0.751515
+[16:31:05.859] Validation ===>
+[16:31:28.646] Testing performance in val model: mean_dice : 0.878390, best_dice : 0.930000, loss:2.230256
+[16:31:28.651] Epoch 13 : val_loss : 2.230256
+[16:31:36.587] iteration 3000 : loss : 0.592059 lr_: 0.000100
+[16:33:16.053] iteration 3050 : loss : 0.528897 lr_: 0.000100
+[16:34:55.415] iteration 3100 : loss : 0.544463 lr_: 0.000100
+[16:36:34.665] iteration 3150 : loss : 0.549966 lr_: 0.000100
+[16:38:14.058] iteration 3200 : loss : 0.600185 lr_: 0.000100
+[16:38:33.959] Epoch 14 : train_loss : 0.628599
+[16:38:35.557] Validation ===>
+[16:38:57.822] Testing performance in val model: mean_dice : 0.879578, best_dice : 0.930000, loss:2.113593
+[16:38:57.826] Epoch 14 : val_loss : 2.113593
+[16:40:17.353] iteration 3250 : loss : 0.600193 lr_: 0.000100
+[16:41:56.676] iteration 3300 : loss : 0.644803 lr_: 0.000100
+[16:43:35.937] iteration 3350 : loss : 0.545553 lr_: 0.000100
+[16:45:15.323] iteration 3400 : loss : 0.732163 lr_: 0.000100
+[16:46:03.047] Epoch 15 : train_loss : 0.623085
+[16:46:04.905] Validation ===>
+[16:46:27.366] Testing performance in val model: mean_dice : 0.877134, best_dice : 0.930000, loss:2.168149
+[16:46:27.371] Epoch 15 : val_loss : 2.168149
+[16:47:19.049] iteration 3450 : loss : 0.529830 lr_: 0.000100
+[16:48:58.429] iteration 3500 : loss : 0.534159 lr_: 0.000100
+[16:50:37.738] iteration 3550 : loss : 0.500208 lr_: 0.000100
+[16:52:16.868] iteration 3600 : loss : 0.560216 lr_: 0.000100
+[16:53:32.397] Epoch 16 : train_loss : 0.604061
+[16:53:34.008] Validation ===>
+[16:53:56.920] Testing performance in val model: mean_dice : 0.854180, best_dice : 0.930000, loss:2.349729
+[16:53:56.925] Epoch 16 : val_loss : 2.349729
+[16:54:20.778] iteration 3650 : loss : 0.625080 lr_: 0.000100
+[16:56:00.273] iteration 3700 : loss : 0.601763 lr_: 0.000100
+[16:57:39.497] iteration 3750 : loss : 0.666627 lr_: 0.000100
+[16:59:18.822] iteration 3800 : loss : 0.494916 lr_: 0.000100
+[17:00:58.384] iteration 3850 : loss : 0.567988 lr_: 0.000100
+[17:01:02.371] Epoch 17 : train_loss : 0.627556
+[17:01:03.933] Validation ===>
+[17:01:26.589] Testing performance in val model: mean_dice : 0.901625, best_dice : 0.930000, loss:1.965881
+[17:01:26.593] Epoch 17 : val_loss : 1.965881
+[17:03:01.901] iteration 3900 : loss : 0.481521 lr_: 0.000100
+[17:04:41.426] iteration 3950 : loss : 0.536952 lr_: 0.000100
+[17:06:21.111] iteration 4000 : loss : 0.542775 lr_: 0.000100
+[17:08:00.666] iteration 4050 : loss : 0.564060 lr_: 0.000100
+[17:08:32.407] Epoch 18 : train_loss : 0.550178
+[17:08:34.181] Validation ===>
+[17:08:57.467] Testing performance in val model: mean_dice : 0.917257, best_dice : 0.930000, loss:1.875863
+[17:08:57.472] Epoch 18 : val_loss : 1.875863
+[17:10:05.043] iteration 4100 : loss : 0.556597 lr_: 0.000100
+[17:11:44.271] iteration 4150 : loss : 0.483478 lr_: 0.000100
+[17:13:23.498] iteration 4200 : loss : 0.522432 lr_: 0.000100
+[17:15:02.949] iteration 4250 : loss : 0.490248 lr_: 0.000100
+[17:16:02.666] Epoch 19 : train_loss : 0.552174
+[17:16:04.244] Validation ===>
+[17:16:27.287] Testing performance in val model: mean_dice : 0.909149, best_dice : 0.930000, loss:1.952529
+[17:16:27.292] Epoch 19 : val_loss : 1.952529
+[17:17:07.113] iteration 4300 : loss : 0.408035 lr_: 0.000100
+[17:18:46.615] iteration 4350 : loss : 0.421066 lr_: 0.000100
+[17:20:25.875] iteration 4400 : loss : 0.564686 lr_: 0.000100
+[17:22:05.303] iteration 4450 : loss : 0.604585 lr_: 0.000100
+[17:23:32.632] Epoch 20 : train_loss : 0.559043
+[17:23:33.699] Validation ===>
+[17:23:57.002] Testing performance in val model: mean_dice : 0.876085, best_dice : 0.930000, loss:2.169348
+[17:23:57.007] Epoch 20 : val_loss : 2.169348
+[17:24:08.956] iteration 4500 : loss : 0.697885 lr_: 0.000100
+[17:25:48.327] iteration 4550 : loss : 0.417398 lr_: 0.000100
+[17:27:27.827] iteration 4600 : loss : 0.453543 lr_: 0.000100
+[17:29:07.217] iteration 4650 : loss : 0.653734 lr_: 0.000100
+[17:30:46.576] iteration 4700 : loss : 0.466870 lr_: 0.000100
+[17:31:02.506] Epoch 21 : train_loss : 0.586956
+[17:31:04.125] Validation ===>
+[17:31:27.413] Testing performance in val model: mean_dice : 0.896882, best_dice : 0.930000, loss:1.911021
+[17:31:27.418] Epoch 21 : val_loss : 1.911021
+[17:32:50.860] iteration 4750 : loss : 0.508635 lr_: 0.000100
+[17:34:30.084] iteration 4800 : loss : 0.588104 lr_: 0.000100
+[17:36:09.476] iteration 4850 : loss : 0.905753 lr_: 0.000100
+[17:37:48.902] iteration 4900 : loss : 0.530886 lr_: 0.000100
+[17:38:32.518] Epoch 22 : train_loss : 0.540312
+[17:38:34.143] Validation ===>
+[17:38:56.927] Testing performance in val model: mean_dice : 0.860485, best_dice : 0.930000, loss:2.166402
+[17:38:56.932] Epoch 22 : val_loss : 2.166402
+[17:39:52.679] iteration 4950 : loss : 0.494601 lr_: 0.000100
+[17:41:32.085] iteration 5000 : loss : 0.628899 lr_: 0.000100
+[17:43:11.466] iteration 5050 : loss : 0.484075 lr_: 0.000100
+[17:44:50.772] iteration 5100 : loss : 0.582189 lr_: 0.000100
+[17:46:02.426] Epoch 23 : train_loss : 0.552960
+[17:46:04.020] Validation ===>
+[17:46:27.320] Testing performance in val model: mean_dice : 0.904242, best_dice : 0.930000, loss:1.903691
+[17:46:27.325] Epoch 23 : val_loss : 1.903691
+[17:46:55.158] iteration 5150 : loss : 0.497235 lr_: 0.000100
+[17:48:34.526] iteration 5200 : loss : 0.422835 lr_: 0.000100
+[17:50:14.077] iteration 5250 : loss : 0.469281 lr_: 0.000100
+[17:51:53.500] iteration 5300 : loss : 0.487200 lr_: 0.000100
+[17:53:33.028] iteration 5350 : loss : 0.523286 lr_: 0.000100
+[17:53:33.030] Epoch 24 : train_loss : 0.528560
+[17:53:34.713] Validation ===>
+[17:53:58.042] Testing performance in val model: mean_dice : 0.877205, best_dice : 0.930000, loss:2.124317
+[17:53:58.047] Epoch 24 : val_loss : 2.124317
+[17:53:59.679] save model to ./model_pth/ACDC/MERIT_Cascaded_Small_loss_MUTATION_w3_7_256/MERIT_Cascaded_Small_loss_MUTATION_w3_7_pretrain_epo25_bs8_lr0.0001_256_s2222_run144621/epoch=24_lr=0.0001_avg_dcs=0.877204939735222.pth
